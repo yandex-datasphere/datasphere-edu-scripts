@@ -1,15 +1,17 @@
 # Yandex DataSphere:
-# Различные скрипты для образовательных целей
+# Different Script for Educational Purposes
 
-В данном репозитории мы будем собирать различные скрипты, позволяющие автоматизировать использование Yandex DataSphere в образовательных сценариях.
+[Switch to Russiab](https://github.com/yandex-datasphere/datasphere-edu-scripts/tree/main)
 
-## Содержание
+In this repo, we will collect different community scripts that allow automating Yandex DataSphere, especially in educational scenarios.
 
-В настоящее время, доступны следующие скрипты:
+## Content
 
-* [Автоматическое создание сообщества и проектов пользователей](scripts/create_projects_multiple_users.ipynb) - удобно использовать для заведения группы студентов и предоставления им индивидуальных проектов в DataSphere
-* [Удаление проектов в сообществе](scripts/delete_projects_in_community.ipynb) - автоматическое удаление всех (или некоторых) проектов в сообществе. Удобно использовать этот скрипт, если вы используете одно и тоже сообщество для периодического проведения мастер-классов для разных пользователей и не хотите, чтобы после мастер-класса оставались лишние ресурсы. 
+The following scripts are currently available:
 
-## Как поделиться своим скриптом
+* [Automatically creating community and user's projects](scripts/create_projects_multiple_users.ipynb). This script can be conveniently used to set up a community and a set of individual projects for students
+* [Deleting Projects from Community](scripts/delete_projects_in_community.ipynb) - allows to automatically delete all (or some) projects from community. This script can be used if you are using the same community for periodical labs/master-classes, and want to clean up the community from previous group. 
 
-Если у вас есть скрипт для автоматизации DataSphere или Yandex Cloud, который Вы используете в образовательном сценарии - поделитесь им с сообществом! Проще всего сделать pull request к этом репозиторию.
+## How to share your scripts
+
+If you happen to have a script that you want to share with community - please share it by creating a pull request to this repository! Note that `english` branch is used for English-language content, and `main` - for Russian.
