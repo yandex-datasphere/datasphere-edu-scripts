@@ -1,7 +1,7 @@
 # Yandex DataSphere:
 # Different Script for Educational Purposes
 
-[Switch to Russiab](https://github.com/yandex-datasphere/datasphere-edu-scripts/tree/main)
+[Switch to Russian](https://github.com/yandex-datasphere/datasphere-edu-scripts/tree/main)
 
 In this repo, we will collect different community scripts that allow automating Yandex DataSphere, especially in educational scenarios.
 
