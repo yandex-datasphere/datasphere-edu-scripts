@@ -1,6 +1,8 @@
 # Yandex DataSphere:
 # Различные скрипты для образовательных целей
 
+[English Version](https://github.com/yandex-datasphere/datasphere-edu-scripts/tree/english)
+
 В данном репозитории мы будем собирать различные скрипты, позволяющие автоматизировать использование Yandex DataSphere в образовательных сценариях.
 
 ## Содержание
